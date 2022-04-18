@@ -1,0 +1,5 @@
+{
+    "execMAp" : {
+        "js": "node -r sucrase/register"
+    }
+}
